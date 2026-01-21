@@ -35,7 +35,7 @@ if user_file:
 # lets create the main pages
 
 st.title(':orange[MOM Generator:-] :blue[AI Assisted Minutes of Meeting Generator.]')
-st.subheader(':violet[This application creates generalized minutes of meeting from ]')
+st.subheader(':violet[This application creates generalized minutes of meeting.]')
 st.write('''
          Follow the steps:
          1. Upload the notes in PDF,DOCX or Image format in sidebar.

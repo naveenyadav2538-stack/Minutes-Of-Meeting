@@ -37,9 +37,9 @@ if user_file:
 st.title(':orange[MOM Generator:-] :blue[AI Assisted Minutes of Meeting Generator.]')
 st.subheader(':violet[This application creates generalized minutes of meeting from ]')
 st.write('''
-Follow the steps:
-1.Upload the notes in PDF,DOCX or Image format in sidebar.
-2.Click "generate" to generate the MOM.''')
+         Follow the steps:
+         1.Upload the notes in PDF,DOCX or Image format in sidebar.
+         2.Click "generate" to generate the MOM.''')
 
 if st.button('Generate'):
     with st.spinner("Please Wait....."):
